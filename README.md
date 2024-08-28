@@ -1,1 +1,1 @@
-# restaurant_page
+ This is a TOP project to practice getting used to Webpack.
