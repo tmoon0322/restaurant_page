@@ -1,0 +1,31 @@
+@font-face {
+    font-family: weird;
+    src: url('./Matemasie-Regular.ttf');
+  }
+
+body {
+    background-color: bisque;
+}
+
+.waffle_img {
+    height: 100px;
+    width: 150px;
+    margin: 50px;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+h1 {
+    font-family: weird;
+
+}
